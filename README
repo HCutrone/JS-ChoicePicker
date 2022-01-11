@@ -1,0 +1,6 @@
+A vanilla JavaScript app that takes choices from a user (separated by commas)
+and randomly selects one.
+Original app made by Brad Traversy, I followed along with his YouTube video to
+make mine.
+
+Harrison Cutrone 2022
